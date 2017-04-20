@@ -1,0 +1,3 @@
+## This repository is a project which i learn algorithms and write code to .
+
+> uhhh...
